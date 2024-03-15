@@ -56,9 +56,9 @@
 
 📌 Na pasta tests são encontrados os cenários de testes;
 
-📌 Na pasta results são encontrados os relatórios de testes;
+📌 Na pasta tests/results são encontrados os relatórios de testes;
 
-📌 Na pasta fixtures são encontradas as massas de testes utilizadas no projeto.
+📌 Na pasta tests/fixtures são encontradas as massas de testes utilizadas no projeto.
 
 
 ## Execução do projeto
