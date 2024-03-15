@@ -1,7 +1,7 @@
 # Teste de Performance com K6
 
 
-💡 Esse projeto foi construído acompanhando o curso Teste de Performance com K6 do professor Marlo Henrique de Oliveira. Com esse material, consegui reforçar conceitos já vistos em um primeiro curso básico que fiz e consegui também evoluir no desenvolvimento de scripts de testes de Performance. Nesse projeto, é possível verificar testes de carga, stress, fumaça na API disponibilizada pelo próprio k6: https://test-api.k6.io/. Com ela, foram realizados testes tanto em API publica quanto API privada.
+💡 Esse projeto foi construído acompanhando o curso Teste de Performance com K6 do professor Marlo Henrique de Oliveira. Com esse material, consegui reforçar conceitos já vistos em um primeiro curso básico que fiz e consegui também evoluir no desenvolvimento de scripts de testes de Performance. Nesse projeto, é possível verificar testes de carga, stress e fumaça na API disponibilizada pelo próprio k6: https://test-api.k6.io/. Com ela, foram realizados testes tanto em API publica quanto API privada.
 
 
 ## 🔖 Cenários de Teste
