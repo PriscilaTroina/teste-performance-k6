@@ -44,9 +44,9 @@
         - Requisição com falha inferior a 1%;
 
 ### Cenário 5: Teste de Carga - Arquivo load-test-private.js
-    - Realizar login com novo usuário
+    - Busca todos crocodilos em API privada
     - Critérios:
-        - Carga de 10 Vus por 10 segundos;
+        - Carga de 100 Vus por 10 segundos;
     - Limites:
         - Requisição com falha inferior a 1%;
         - Duração da requisição p(95) inferior a 250ms;
