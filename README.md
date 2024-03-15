@@ -5,7 +5,7 @@
 
 ## 🔖 Cenários de Teste
 
-### Cenário 1: Teste de fumaça - API Publica --> Arquivo smoke-test.js
+### Cenário 1: Teste de fumaça - Arquivo smoke-test.js
     - Buscar todos os crocodilos na API
     - Critérios:
         - 1 usuário por 30 segundos.
@@ -13,7 +13,7 @@
         - 99% das requisições com sucesso.
 
 
-### Cenário 2: Teste de Carga - API Publica --> Arquivo load-test-id.js
+### Cenário 2: Teste de Carga -  Arquivo load-test-id.js
     - Buscar crocodilo por ID
     - Critérios:
         - Ramp up 10 Vus em 10 segundos;
@@ -23,7 +23,7 @@
         - Requisição com sucesso > 95%;
         - Tempo de requisição p(90) < 200ms.
 
-### Cenário 3: Teste de Carga - API Publica --> Arquivo load-test-register.js
+### Cenário 3: Teste de Carga -  Arquivo load-test-register.js
     - Realizar registro de novo usuário
     - Critérios:
         - Carga de 10 Vus por 10 segundos;
@@ -32,7 +32,7 @@
         - Tempo de requisição p(95) < 500ms;
         - Requisição com sucesso superior a 95%.
 
-### Cenário 4: Teste de Stress - API Publica --> Arquivo stress-test.js
+### Cenário 4: Teste de Stress - Arquivo stress-test.js
     - Realizar login com novo usuário
     - Critérios:
         - Ramp up 5 Vus em 5 segundos;
@@ -43,7 +43,7 @@
     - Limites:
         - Requisição com falha inferior a 1%;
 
-### Cenário 5: Teste de Carga - API Privada --> Arquivo load-test-private.js
+### Cenário 5: Teste de Carga - Arquivo load-test-private.js
     - Realizar login com novo usuário
     - Critérios:
         - Carga de 10 Vus por 10 segundos;
